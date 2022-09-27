@@ -8,11 +8,11 @@ namespace Open_Lab_03._04
         {
             if (number % 2 ==0)
             {
-                return "odd";
+                return "even";
             }
             else
             {
-                return "even";
+                return "odd";
             }
         }
     }
